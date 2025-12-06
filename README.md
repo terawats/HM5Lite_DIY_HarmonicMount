@@ -6,7 +6,7 @@ By leveraging the harmonic drive, which is strong enough to operate without the 
 It's convenient to carry and easy and quick to set up in a short time without weight balancing required.
 
 ## 💰 Cost and Usage
-This project aims to minimize the material cost to under $180 USD.
+This project aims to minimize the material cost to under $160 USD.
 It's affordable and easy to build (DIY) yourself. The target usage is for telescopes with a focal length not over 250 mm.
 It's suitable for wide-angle photography such as the Milky Way and comets, and it's also good for deep-sky objects (DSOs).
 
@@ -32,6 +32,31 @@ Under these conditions, the guide error is not over 1/2 the pixel scale.
 
 ### See Auto Guide test result on YouTube by click below image
 [![Watch the demo](https://github.com/user-attachments/assets/c301a99c-8308-4b72-b60d-4d220bc1f44c)](https://youtu.be/z7beAaOQFlM)
+
+# Lists of component and Estimated cost
+Below is a lists of component and estimated cost. Mosly cost are form Taobao.com and Aliexpress.com
+|             Items                   |         Desc              |   Q'ty  |     cost   |
+|-------------------------------------|---------------------------|---------|------------|
+| 1. Harmonic gear                    | miniF11-100               |    x2   |    37 usd  |
+| 2. Steping Motor                    | NEMA17 42x60mm            |    x2   |     5 usd  |
+| 3. Close loop servo driver          | SERVO42(step tick)        |    x2   |     8 usd  |
+| 4. NEMA17 Motor L-bracket           | 42mm L-Bracket            |    x2   |     1 usd  |
+| 5. Latitude Adjusment wedge         | 15kg load capacity        |    x1   |    23 usd  |
+| 6. Dovetail clamp                   | Clamp for telescope       |    x1   |     6 usd  |
+| 7. Wemos D1 mini ESP32              | OnStepX MCU               |    x1   |   3.5 usd  |
+| 8. Wemos D1 mini Buzzer shield      | OnStepX Buzzer            |    x1   |     1 usd  |
+| 9. Wemos D1 mini Power shield       | for ESP32 power           |    x1   |     1 usd  |
+| 10. DS3231 AT24C32 I2C RTC module   | for OnStep RTC            |    x1   |     2 usd  |
+| 11. Female USB Type-C socket        | for connect to PC         |    x1   |     1 usd  |
+| 12. Female 2.5mm DC socket          | for 12V power supply      |    x1   |     1 usd  |
+| 13. 3D print parts for OnStepX      | file: Box_OnStepX.stl     |    -    |     5 usd  |
+| 14. 3D print parts for RA cable     | file: Box_RA_Cable_v2.stl |    -    |     3 usd  |
+| 15. Cable management tube           | for RA wiring banagement  |    -    |     1 usd  |
+| 16. Screw, Nute, watcher            | for assembly              |    -    |     8 usd  |
+|              Total estimation cost: |                           |         |   158 usd  |
+
+# Assembly guide
+Coming soon...
 
 ### Custom OnStepX for HM5Lite 
 Custom OnStepX version v10.24c for HM5Lite [download link](https://github.com/terawats/OnStepX_EEPROM/releases/tag/v10.24c) (plaese download file name "Custom_OnStepX_for_HM5Lite.zip" )
