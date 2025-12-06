@@ -1,15 +1,37 @@
 # HM5Lite DIY Harmonic Mount
-HM5 Lit is a DIY telescope tracker mount with harmonic gear. The payload capacity is 4-5kg Maximum.
+
+## Introduction
+HM5 Lit is a DIY telescope tracker mount with a harmonic drive (gear). The mount weighs just 2.5 kg and supports a maximum payload capacity of 4–5 kg.
+By leveraging the harmonic drive, which is strong enough to operate without the need for an additional counterweight, it offers several advantages.
+It's convenient to carry and easy and quick to set up in a short time without weight balancing required.
+
+## 💰 Cost and Usage
+This project aims to minimize the material cost to under $180 USD.
+It's affordable and easy to build (DIY) yourself. The target usage is for telescopes with a focal length not over 250 mm.
+It's suitable for wide-angle photography such as the Milky Way and comets, and it's also good for deep-sky objects (DSOs).
+
+## 🔭 Performance
+With this configuration, we can achieve an RMS guiding error of 1.0" to 1.8" (arcseconds).
+This is good enough for a telescope setup with a pixel scale of 3.0"–5.0"/pixel.
+
+Examples:
+RedCat51 + ASI2600MC Pro is 3.1"/pixel.
+Samyang 135mm + ASI2600MC Pro is 5.7"/pixel. (Note: Changed "123mm" to the more common "135mm" focal length.)
+
+Under these conditions, the guide error is not over 1/2 the pixel scale.
+
+# Demo of performance
 
 ![IMG_5768](https://github.com/user-attachments/assets/5086d991-5d6e-4771-a238-5d1ff4d20d77)
 
-See Demo Video on YouTube by click below image
+### See Demo Video on YouTube by click below image
 [![Watch the demo](https://github.com/user-attachments/assets/c0d167c0-5748-4e73-ae14-297063ce853b)](https://www.youtube.com/watch?v=0rcDmX7sShg)
 
-Auto guide test condition with platload 3kg
+### Auto guide test condition with platload 3kg
 ![IMG_6452](https://github.com/user-attachments/assets/b0fbee6d-b916-4b44-94bc-184e2d0f621f)
 
-See Auto Guide test result on YouTube by click below image
+### See Auto Guide test result on YouTube by click below image
 [![Watch the demo](https://github.com/user-attachments/assets/c301a99c-8308-4b72-b60d-4d220bc1f44c)](https://youtu.be/z7beAaOQFlM)
 
+### Custom OnStepX for HM5Lite 
 Custom OnStepX version v10.24c for HM5Lite [download link](https://github.com/terawats/OnStepX_EEPROM/releases/tag/v10.24c) (plaese download file name "Custom_OnStepX_for_HM5Lite.zip" )
