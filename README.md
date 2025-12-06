@@ -57,6 +57,9 @@ Below is a lists of component and estimated cost. Mosly cost are form Taobao.com
 | 16. Screw, Nute, washer             | ![ImgScrew](https://github.com/user-attachments/assets/2f8f6fed-008d-4e8f-a73d-f9f246d29454) | for assembly              |    -    |     8 usd  |
 |              Total estimation cost: |                                                                                              |                           |         |   158 usd  |
 
+# Schemetic daiagram
+Coming soon...
+
 # Assembly guide
 Coming soon...
 
