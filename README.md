@@ -9,3 +9,4 @@ See Demo Video on YouTube by click below image
 See Auto Guide test result on YouTube by click below image
 [![Watch the demo](https://github.com/user-attachments/assets/c301a99c-8308-4b72-b60d-4d220bc1f44c)](https://youtu.be/z7beAaOQFlM)
 
+Custom OnStepX version v10.24c for HM5Lite [download link](https://github.com/terawats/OnStepX_EEPROM/releases/tag/v10.24c) (plaese download file name "Custom_OnStepX_for_HM5Lite.zip" )
