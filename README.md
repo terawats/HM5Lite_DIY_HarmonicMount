@@ -62,5 +62,5 @@ Coming soon...
 
 
 ### Custom OnStepX for HM5Lite 
-Custom OnStepX version v10.24c for HM5Lite [download link](https://github.com/terawats/OnStepX_EEPROM/releases/tag/v10.24c)
+Custom OnStepX version v10.24c for HM5Lite [download link](https://github.com/terawats/HM5Lite_DIY_HarmonicMount/releases)
 (plaese download file name "Custom_OnStepX_for_HM5Lite.zip" )
