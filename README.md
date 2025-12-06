@@ -58,6 +58,7 @@ Below is a lists of component and estimated cost. Mosly cost are form Taobao.com
 # Assembly guide
 Coming soon...
 
+![IMG_5725](https://github.com/user-attachments/assets/1ab487b2-b90f-441f-8fd2-39d4aafa5768)
 
 
 ### Custom OnStepX for HM5Lite 
