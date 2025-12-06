@@ -58,5 +58,8 @@ Below is a lists of component and estimated cost. Mosly cost are form Taobao.com
 # Assembly guide
 Coming soon...
 
+
+
 ### Custom OnStepX for HM5Lite 
-Custom OnStepX version v10.24c for HM5Lite [download link](https://github.com/terawats/OnStepX_EEPROM/releases/tag/v10.24c) (plaese download file name "Custom_OnStepX_for_HM5Lite.zip" )
+Custom OnStepX version v10.24c for HM5Lite [download link](https://github.com/terawats/OnStepX_EEPROM/releases/tag/v10.24c)
+(plaese download file name "Custom_OnStepX_for_HM5Lite.zip" )
