@@ -58,7 +58,8 @@ Below is a lists of component and estimated cost. Mosly cost are form Taobao.com
 |              Total estimation cost: |                                                                                              |                           |         |   158 usd  |
 
 # Schemetic daiagram
-Coming soon...
+
+![schemetic](https://github.com/user-attachments/assets/7d0326ef-a8b8-4a6b-bf32-ccd8439c4b2e)
 
 # Assembly guide
 Coming soon...
