@@ -33,7 +33,7 @@ Under these conditions, the guide error is not over 1/2 the pixel scale.
 ![IMG_6452](https://github.com/user-attachments/assets/b0fbee6d-b916-4b44-94bc-184e2d0f621f)
 
 ### See Auto Guide test result on YouTube by click below image
-[![Watch the demo](https://github.com/user-attachments/assets/c301a99c-8308-4b72-b60d-4d220bc1f44c)](https://youtu.be/z7beAaOQFlM)
+[![Watch the demo](https://github.com/user-attachments/assets/c301a99c-8308-4b72-b60d-4d220bc1f44c)](https://youtu.be/mmUjZQFmkEI)
 
 # Lists of component and Estimated cost
 Below is a lists of component and estimated cost. Mosly cost are form Taobao.com and Aliexpress.com
