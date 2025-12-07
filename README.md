@@ -61,9 +61,30 @@ Below is a lists of component and estimated cost. Mosly cost are form Taobao.com
 
 ![schemetic](https://github.com/user-attachments/assets/7d0326ef-a8b8-4a6b-bf32-ccd8439c4b2e)
 
-# Assembly guide
-Coming soon...
-
+# Assembly photo gallery
+![IMG_5305](https://github.com/user-attachments/assets/cf66d1df-9a24-4490-a37f-5105a52c8664)
+![IMG_5304](https://github.com/user-attachments/assets/dea4a42f-bb5d-4622-8863-1b0d270f2275)
+![IMG_5306](https://github.com/user-attachments/assets/d6858f2d-9e0f-4a9f-b283-5fad669c032e)
+![IMG_5331](https://github.com/user-attachments/assets/c5394548-464f-4523-aa6c-7f3c71de75e8)
+![IMG_5332](https://github.com/user-attachments/assets/aed6f023-2b80-4bfb-bb2c-9b96b49616fd)
+![IMG_5318](https://github.com/user-attachments/assets/8db817a9-dc9e-4558-8cca-94e55a6e43cc)
+![IMG_5665](https://github.com/user-attachments/assets/e66f340f-2363-4277-b031-9b4f3b7eabc2)
+![IMG_5682](https://github.com/user-attachments/assets/a4a1c260-79a1-499f-8627-07059ca28f66)
+![IMG_5333](https://github.com/user-attachments/assets/86ca395a-5204-402f-a698-e1b253e41807)
+![IMG_5714](https://github.com/user-attachments/assets/945b3583-8bb5-4b20-97dc-aacd8f2ea378)
+![IMG_5736](https://github.com/user-attachments/assets/eb04dc37-9273-46f0-b09d-21a6d7584e4a)
+![IMG_5753](https://github.com/user-attachments/assets/d7e7f3a3-cd73-4062-8f71-a5440733182c)
+![IMG_5754](https://github.com/user-attachments/assets/b5ed8a3d-5fbd-464a-aac8-ef18c7cc71cc)
+![IMG_5755](https://github.com/user-attachments/assets/2f6c315a-faa5-4b45-91ee-d7939e9ad1bd)
+![IMG_5756](https://github.com/user-attachments/assets/29809fec-7602-43f1-ae8e-abd066f1cd5b)
+![IMG_5757](https://github.com/user-attachments/assets/a9eecd0d-d91b-44b3-b7ae-44a5726ab18b)
+![IMG_5759](https://github.com/user-attachments/assets/d6568071-89af-4ceb-9e0d-f7738f517d14)
+![IMG_5760](https://github.com/user-attachments/assets/783dccc8-6a7b-47bb-af94-24fe6c320b12)
+![IMG_5761](https://github.com/user-attachments/assets/7293c582-844d-4177-88d6-5280838e04e2)
+![IMG_5761](https://github.com/user-attachments/assets/56c0f681-4620-472d-b1bc-339e6e6153ec)
+![IMG_5763](https://github.com/user-attachments/assets/6dae1850-a766-437a-84d2-abaca364c8b4)
+![IMG_5768](https://github.com/user-attachments/assets/61ff3aaa-48dd-4b6e-8517-41a7b4ebd2d6)
+![IMG_6452](https://github.com/user-attachments/assets/c4a4cb58-8781-48a4-a1f9-6911e7ce4d78)
 
 ### Custom OnStepX for HM5Lite 
 Custom OnStepX version v10.24c and config for HM5Lite [download link](https://github.com/terawats/HM5Lite_DIY_HarmonicMount/releases)
